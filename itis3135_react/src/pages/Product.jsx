@@ -36,7 +36,7 @@ const styles = {
     fontSize: '16px',
   },
   navLink: {
-    color: '#19323C',
+    color: '#e0e0e0',
     fontWeight: 'bold',
     textDecoration: 'none',
   },
