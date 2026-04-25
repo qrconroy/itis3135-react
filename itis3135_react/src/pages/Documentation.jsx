@@ -11,7 +11,7 @@ const docStyles = {
     borderRight: '1px solid #ccc',
     padding: '1rem',
     boxSizing: 'border-box',
-    backgroundColor: '#fff',
+    backgroundColor: '#A93F55',
     zIndex: 100,
   },
   navList: {
@@ -36,7 +36,7 @@ const docStyles = {
     textAlign: 'center',
     width: '100%',
     boxSizing: 'border-box',
-    backgroundColor: '#f4f4f4',
+    backgroundColor: '#19323C',
     padding: '10px 20px',
     borderBottom: '1px solid #ccc',
   },
