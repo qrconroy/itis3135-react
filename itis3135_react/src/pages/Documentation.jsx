@@ -25,8 +25,7 @@ const docStyles = {
   navLink: {
     display: 'block',
     padding: '0.6rem 0.5rem',
-    color: '#005a9c',
-    textDecoration: 'none',
+    textDecoration: 'underline',
   },
   body: {
     paddingLeft: '220px',

@@ -25,7 +25,7 @@ const styles = {
   },
   h1: {
     margin: '5px 0',
-    color: '#fff',
+    color: '#',
     fontSize: '48px',
   },
   navBar: {
@@ -36,7 +36,7 @@ const styles = {
     fontSize: '16px',
   },
   navLink: {
-    color: '#e0e0e0',
+    color: '#19323C',
     fontWeight: 'bold',
     textDecoration: 'none',
   },
