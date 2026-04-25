@@ -86,7 +86,7 @@ export default function Product() {
           <a style={styles.navLink} href="#form">Notifications</a>
           <a style={styles.navLink} href="#plans">Pricing Plans</a>
         </nav>
-        <div style={{ backgroundColor: '#f4f4f4', width: '100%', padding: '6px 20px' }}>
+        <div style={{ backgroundColor: '#19323C', width: '100%', padding: '6px 20px' }}>
           <Navbar />
         </div>
       </header>
