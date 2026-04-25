@@ -34,10 +34,6 @@ const hobbyStyles = `
     font-weight: bold;
     cursor: pointer;
   }
-  .hobby-nav a.active {
-    color: #27FB6B;
-    text-decoration: underline;
-  }
   .hobby-nav2 {
     font-size: 16px;
     margin-top: 10px;
